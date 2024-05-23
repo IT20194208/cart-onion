@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/https//it20194208.github.io/cart-onion/static/css/main.3097511c.chunk.css",
+    "main.js": "/https//it20194208.github.io/cart-onion/static/js/main.200a750a.chunk.js",
+    "main.js.map": "/https//it20194208.github.io/cart-onion/static/js/main.200a750a.chunk.js.map",
+    "runtime-main.js": "/https//it20194208.github.io/cart-onion/static/js/runtime-main.f865e5c8.js",
+    "runtime-main.js.map": "/https//it20194208.github.io/cart-onion/static/js/runtime-main.f865e5c8.js.map",
+    "static/css/2.e7c4c567.chunk.css": "/https//it20194208.github.io/cart-onion/static/css/2.e7c4c567.chunk.css",
+    "static/js/2.b88cf649.chunk.js": "/https//it20194208.github.io/cart-onion/static/js/2.b88cf649.chunk.js",
+    "static/js/2.b88cf649.chunk.js.map": "/https//it20194208.github.io/cart-onion/static/js/2.b88cf649.chunk.js.map",
+    "index.html": "/https//it20194208.github.io/cart-onion/index.html",
+    "precache-manifest.a6664a83eaa543b337ceb71c8298acd9.js": "/https//it20194208.github.io/cart-onion/precache-manifest.a6664a83eaa543b337ceb71c8298acd9.js",
+    "service-worker.js": "/https//it20194208.github.io/cart-onion/service-worker.js",
+    "static/css/2.e7c4c567.chunk.css.map": "/https//it20194208.github.io/cart-onion/static/css/2.e7c4c567.chunk.css.map",
+    "static/css/main.3097511c.chunk.css.map": "/https//it20194208.github.io/cart-onion/static/css/main.3097511c.chunk.css.map",
+    "static/js/2.b88cf649.chunk.js.LICENSE.txt": "/https//it20194208.github.io/cart-onion/static/js/2.b88cf649.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f865e5c8.js",
+    "static/css/2.e7c4c567.chunk.css",
+    "static/js/2.b88cf649.chunk.js",
+    "static/css/main.3097511c.chunk.css",
+    "static/js/main.200a750a.chunk.js"
+  ]
+}
